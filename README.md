@@ -9,3 +9,5 @@ chrome://extensions/
 https://2018.hao245.com/
 ```
 
+## PS如果浏览器不自动打开主页，手动点击左上角的主页按钮。
+
